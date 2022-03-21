@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Winson Chansa](mailto:winson.chansa@owasp.org)
+* [Richard Chipopola](mailto:richard.chipopola@owasp.org)
