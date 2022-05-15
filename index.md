@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Lusaka
-tags: example-tag
+tags: owasp-resources
 region: Africa
 meetup-group: OWASP-Lusaka
 
