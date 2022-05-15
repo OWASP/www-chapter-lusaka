@@ -1,11 +1,10 @@
 ---
-title: Example
+title: Resources
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: owasp-resources
 ---
 
-## Example
-
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+## OWASP RESOURCES
+Watch this space, to be used for OWASP resources.
