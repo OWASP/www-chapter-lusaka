@@ -10,8 +10,10 @@ meetup-group: OWASP-Lusaka
 
 ## Welcome
 ![OWASP LUSAKA](assets/images/owasp_lusaka_logo.jpg)
+
+
 Welcome to the Lusaka chapter homepage. The chapter leaders are Winson Chansa and Richard Chipopola. 
-Follow chapter news on Twitter at http://twitter.com/OWASPLusaka
+Follow chapter news [on Twitter](https://twitter.com/OWASPLusaka)
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
