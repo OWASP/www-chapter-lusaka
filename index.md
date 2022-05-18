@@ -10,7 +10,7 @@ meetup-group: OWASP-Lusaka
 
 ## Welcome
 ![OWASP LUSAKA](assets/images/owasp_lusaka_logo.jpg)
-
+## 
 Welcome to the Lusaka chapter homepage. The chapter leaders are Winson Chansa and Richard Chipopola. 
 Follow chapter news [on Twitter](https://twitter.com/OWASPLusaka)
 
