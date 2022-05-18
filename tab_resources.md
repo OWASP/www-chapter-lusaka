@@ -3,7 +3,7 @@ title: Resources
 layout:  null
 tab: true
 order: 2
-tags: owasp-resources
+tags: tab_resources
 ---
 
 ## OWASP RESOURCES
