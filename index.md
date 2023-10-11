@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Lusaka
 tags: tab_resources
 region: Africa
+country: Africa
 meetup-group: OWASP-Lusaka
 
 ---
